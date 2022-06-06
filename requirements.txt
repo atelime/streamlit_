@@ -1,4 +1,7 @@
 pandas
 numpy
 streamlit
-finance-datareader
+Finance-datareader
+plotly
+seaborn
+matplotlib
