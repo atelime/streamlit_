@@ -1,7 +1,7 @@
 pandas
 numpy
 streamlit
-Finance-datareader
+finance-datareader
 plotly
 seaborn
-matplotlib
+matplotlibkoreanize_matplotlib
