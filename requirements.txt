@@ -4,4 +4,4 @@ streamlit
 finance-datareader
 plotly
 seaborn
-matplotlibkoreanize_matplotlib
+koreanize_matplotlib
